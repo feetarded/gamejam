@@ -10,9 +10,9 @@ config_version=5
 
 [application]
 
-config/name="my pvz"
+config/name="animals vs capitalists"
 run/main_scene="res://scenes/lawn.tscn"
-config/features=PackedStringArray("4.2", "Mobile")
+config/features=PackedStringArray("4.3", "Mobile")
 
 [autoload]
 
